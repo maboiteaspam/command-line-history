@@ -1,5 +1,5 @@
 # command-line-history
-Command line history or windows and linux.
+Command line history on windows and linux.
 
 ## Installation
 Run the following commands to download and install the application:

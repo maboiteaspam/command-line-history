@@ -1,7 +1,7 @@
 {
     "name": "command-line-history",
     "version": "0.0.1",
-    "description": "Command line history or windows and linux.",
+    "description": "Command line history on windows and linux.",
     "main": "main.js",
     "scripts": {
         "lint": "eslint"
