@@ -1,24 +1,28 @@
 {
-    "name": "command-line-history",
-    "version": "0.0.1",
-    "description": "Command line history on windows and linux.",
-    "main": "main.js",
-    "scripts": {
-        "lint": "eslint"
-    },
-    "bin": {},
-    "keywords": [
-        "command",
-        "line",
-        "history"
-    ],
-    "author": "maboiteaspam",
-    "license": "wtf",
-    "homepage": "https://github.com/maboiteaspam/command-line-history",
-    "repository": {
-        "url": "https://github.com/maboiteaspam/command-line-history.git"
-    },
-    "bugs": {
-        "url": "https://github.com/maboiteaspam/command-line-history/issues"
-    }
+  "name": "command-line-history",
+  "version": "0.0.1",
+  "description": "Command line history on windows and linux.",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "bin": {},
+  "keywords": [
+    "command",
+    "line",
+    "history"
+  ],
+  "author": "maboiteaspam",
+  "license": "wtf",
+  "homepage": "https://github.com/maboiteaspam/command-line-history",
+  "repository": {
+    "url": "https://github.com/maboiteaspam/command-line-history.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maboiteaspam/command-line-history/issues"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "showusage": "^0.1.0"
+  }
 }
